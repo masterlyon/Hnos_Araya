@@ -1,0 +1,29 @@
+/*.body {
+  background-image:url('img/acordeon_slide.jpg');
+}*/
+
+.jumbotron{
+color: #249A9A;/* color gris#5D6D7E;*/
+font-family: sans-serif;
+font-style: italic;
+font-size: 12px;
+/*background-image: url("../slide-4.jpg");*/
+background-repeat: no-repeat;
+border-bottom: 1px solid #249A9A;
+background-color: #E3E3E3;
+}
+
+h5{
+  color: #249A9A;
+  font-family: Helvetica;
+  text-decoration: underline;
+  font-size: 1.3em;
+  text-align: center;
+}
+div{
+  border-style:none;
+}
+
+p{
+  color:none;
+}
