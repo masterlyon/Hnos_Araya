@@ -27,3 +27,7 @@ div{
 p{
   color:none;
 }
+
+@media only screen and (min-width:501px){ }
+
+@media only screen and (min-width:960px){ }
