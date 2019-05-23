@@ -44,9 +44,11 @@ div button a{
   color: red;
 }
 
-p{color:none;}
 
 nav, li, a{/*pie de firma*/
   Color:blue;
   border-style:none;
   }
+p{
+  color:none;
+}
